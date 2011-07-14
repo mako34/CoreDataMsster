@@ -1,0 +1,390 @@
+TCoreDataMsster
+v7
+r0
+t332307471.465643
+cCheck dependencies
+cProcessInfoPlistFile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/Info.plist CoreDataMsster-Info.plist
+cCompileXIB /Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib
+cCompileXIB /Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib
+cProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch.gch CoreDataMsster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/main.o /Users/mkss9/Documents/iPad/CoreDataMsster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMssterAppDelegate.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataHelper.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/categ.o /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/Entity.o /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/RootViewController.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster normal i386
+cGenerateDSYMFile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app.dSYM /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster
+cTouch /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m
+c000000004E1D8B870000000000002AA6
+t1310559111
+s10918
+i"RootViewController.h"
+i"CoreDataMssterAppDelegate.h"
+i"categ.h"
+i"Entity.h"
+i"CoreDataHelper.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.h
+c000000004A355FD900000000000002ED
+t1245011929
+s749
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m
+c000000004BB7138600000000000006CB
+t1270289286
+s1739
+i"CoreDataHelper.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.h
+c000000004E185B4D00000000000003ED
+t1310219085
+s1005
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+i"RootViewController.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m
+c000000004E17F88D0000000000001A7F
+t1310193805
+s6783
+i"CoreDataMssterAppDelegate.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld
+c000000004E17F6FE0000000000000110
+t1310193406
+s272
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.h
+c000000004E17F679000000000000014C
+t1310193273
+s332
+i<CoreData/CoreData.h>
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m
+c000000004E17F67900000000000000F3
+t1310193273
+s243
+i"Entity.h"
+i"categ.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.h
+c000000004E17F679000000000000023F
+t1310193273
+s575
+i<CoreData/CoreData.h>
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m
+c000000004E17F67900000000000000E4
+t1310193273
+s228
+i"categ.h"
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster_Prefix.pch
+c000000004E17ECA00000000000000170
+t1310190752
+s368
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib
+c000000004E17F9980000000000004E41
+t1310194072
+s20033
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.h
+c000000004E1B0983000000000000080C
+t1310394755
+s2060
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib
+c000000004E186EF100000000000079A8
+t1310224113
+s31144
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataHelper.o
+t1310614670
+s15236
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMsster.LinkFileList
+c000000004E1E647A0000000000000378
+t1310614650
+s888
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMssterAppDelegate.o
+t1310614670
+s64368
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/Entity.o
+t1310614670
+s5284
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/RootViewController.o
+t1310614670
+s92212
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/categ.o
+t1310614670
+s5280
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/main.o
+t1310614670
+s6312
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app
+t1310614671
+s272
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app.dSYM
+t1310614671
+s102
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster
+t1310614671
+s44796
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd
+t1310614670
+s136
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/Info.plist
+t1310614651
+s826
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/MainWindow.nib
+t1310614666
+s1111
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/PkgInfo
+t1310614651
+s8
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/RootViewController.nib
+t1310614667
+s2693
+
+N/Users/mkss9/Documents/iPad/CoreDataMsster/main.m
+c000000004E17ECA00000000000000168
+t1310190752
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch.gch
+t1310614669
+s10926484
+
+NCoreDataMsster-Info.plist
+c000000004E17ECA000000000000004D6
+t1310190752
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332307450#332307450#0(0"0(0#1#0"4255560#0"0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataHelper.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307470.332880
+e332307470.459024
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataHelper.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m332307470#332307470#0(0"0(0#0#67"/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m2568295056#2126"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataHelper.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataHelper.o0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMssterAppDelegate.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307470.256552
+e332307470.429750
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMssterAppDelegate.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m332307470#332307470#0(0"0(0#0#78"/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m2568295056#2148"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/CoreDataMssterAppDelegate.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMssterAppDelegate.o0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/Entity.o /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307470.459154
+e332307470.575724
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/Entity.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m332307470#332307470#0(0"0(0#0#79"/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m2568295056#2130"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/Entity.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/Entity.o0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/RootViewController.o /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307470.534385
+e332307470.749400
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/RootViewController.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m332307470#332307470#0(0"0(0#0#74"/Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m2568295056#2137"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/Classes/../RootViewController.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/categ.o /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307470.429890
+e332307470.534236
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/categ.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m332307470#332307470#0(0"0(0#0#78"/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m2568295056#2128"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld/categ.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/categ.o0#
+
+CCompileC build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/main.o /Users/mkss9/Documents/iPad/CoreDataMsster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307469.713474
+e332307470.256421
+r1
+xCompileC
+xbuild/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/main.o
+x/Users/mkss9/Documents/iPad/CoreDataMsster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/mkss9/Documents/iPad/CoreDataMsster/main.m332307469#332307470#0(0"0(0#0#49"/Users/mkss9/Documents/iPad/CoreDataMsster/main.m2568295056#2098"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch -c /Users/mkss9/Documents/iPad/CoreDataMsster/main.m -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib
+s332307451.134614
+e332307467.628893
+r1
+xCompileXIB
+x/Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332307451#332307467#0(0"0(0#0#57"/Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib4742288#589"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/MainWindow.nib /Users/mkss9/Documents/iPad/CoreDataMsster/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib
+s332307451.173511
+e332307468.057364
+r1
+xCompileXIB
+x/Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@33"CompileXIB RootViewController.xib332307451#332307468#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#65"/Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib2568295056#605"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/RootViewController.nib /Users/mkss9/Documents/iPad/CoreDataMsster/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld
+s332307469.712268
+e332307470.332745
+r1
+xDataModelVersionCompile
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd
+x/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld
+lSLF07#2@118"DataModelVersionCompile build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd CoreDataMsster.xcdatamodeld332307469#332307470#0(0"0(0#0#70"/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld2568295056#419"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster.xcdatamodeld /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster.momd0#
+
+CGenerateDSYMFile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app.dSYM /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster
+s332307471.322178
+e332307471.417126
+r1
+xGenerateDSYMFile
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app.dSYM
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/CoreDataMsster.app.dSYM build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster332307471#332307471#0(0"0(0#0#104"/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster2568295056#416"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app.dSYM0#
+
+CLd /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster normal i386
+s332307470.749522
+e332307471.321958
+r1
+xLd
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster
+xnormal
+xi386
+lSLF07#2@109"Link /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster332307470#332307471#0(0"0(0#0#0"4255560#975"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -filelist /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/Objects-normal/i386/CoreDataMsster.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/CoreDataMsster0#
+
+CProcessInfoPlistFile /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/Info.plist CoreDataMsster-Info.plist
+s332307450.865252
+e332307451.134388
+r1
+xProcessInfoPlistFile
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/Info.plist
+xCoreDataMsster-Info.plist
+lSLF07#2@33"Process CoreDataMsster-Info.plist332307450#332307451#0(0"0(0#0#68"/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster-Info.plist4255560#512"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreDataMsster-Info.plist -genpkginfo /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app/Info.plist0#
+
+CProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch.gch CoreDataMsster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332307468.057639
+e332307469.712065
+r1
+xProcessPCH
+x/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch.gch
+xCoreDataMsster_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile CoreDataMsster_Prefix.pch332307468#332307469#0(0"0(0#0#68"/Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster_Prefix.pch4255560#1979"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-generated-files.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-own-target-headers.hmap -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-all-target-headers.hmap -iquote /Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/CoreDataMsster-project-headers.hmap -F/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources/i386 -I/Users/mkss9/Documents/iPad/CoreDataMsster/build/CoreDataMsster.build/Debug-iphonesimulator/CoreDataMsster.build/DerivedSources -c /Users/mkss9/Documents/iPad/CoreDataMsster/CoreDataMsster_Prefix.pch -o /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataMsster_Prefix-dgobfriibdlppeedivporahrqtnh/CoreDataMsster_Prefix.pch.gch0#
+
+CTouch /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app
+s332307471.417232
+e332307471.465579
+r1
+xTouch
+x/Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app
+lSLF07#2@95"Touch /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app332307471#332307471#0(0"0(0#0#0"2568295056#293"    cd /Users/mkss9/Documents/iPad/CoreDataMsster    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mkss9/Documents/iPad/CoreDataMsster/build/Debug-iphonesimulator/CoreDataMsster.app0#
+
