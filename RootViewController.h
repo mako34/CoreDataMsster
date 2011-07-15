@@ -13,6 +13,8 @@
 @class categ; //ojo mira como es class del entity
 @class Entity;// a final de cuentas que es que sea class!
 
+@class ItemDataViewController;
+
 //ojo delegatdo de fetch1!
 @interface RootViewController : UIViewController <UITableViewDelegate, UITableViewDataSource,UITextFieldDelegate, NSFetchedResultsControllerDelegate>{ //que hace el textfield??, para si le da done que salve!
 @private //para que private??
@@ -22,9 +24,12 @@
 	
 	//Entity 
 	
+		
 	NSString *CategRef;
 	
 	NSString *entityName;
+
+	NSString *MessageToViewData;
 
 	
 	UITextField *nameTextField;

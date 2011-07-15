@@ -2,8 +2,8 @@
 //  categ.h
 //  CoreDataMsster
 //
-//  Created by MK SS9 on 14/07/11.
-//  Copyright 2011 Neo. All rights reserved.
+//  Created by Manuel Betancurt on 15/07/11.
+//  Copyright 2011 HYPER. All rights reserved.
 //
 
 #import <CoreData/CoreData.h>
@@ -23,9 +23,9 @@
 @interface categ (CoreDataGeneratedAccessors)
 //- (void)addCategToEntityObject:(Entity *)value;
 - (void)addCategToEntityObject:(NSManagedObject *)value;
-// - (void)removeCategToEntityObject:(Entity *)value;
-- (void)removeCategToEntityObject:(Entity *)value;
-- (void)removeCategToEntityObject:(Entity *)value;
+//- (void)removeCategToEntityObject:(Entity *)value;
+- (void)removeCategToEntityObject:(NSManagedObject *)value;
+
 - (void)addCategToEntity:(NSSet *)value;
 - (void)removeCategToEntity:(NSSet *)value;
 

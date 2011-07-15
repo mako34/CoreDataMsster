@@ -10,6 +10,7 @@
 #import "CoreDataMssterAppDelegate.h"
 #import "categ.h"
 #import "Entity.h"
+#import "ItemDataViewController.h"
  
 @implementation RootViewController
 
@@ -200,11 +201,10 @@
 	
 	if (tableView == tableViewCateg) {
 		
+
 		
-		
-		//CategRef = objectAtIndex
-		 
-		//categ *info = [CateglistArray objectAtIndex:indexPath.row];
+ 		 
+ 		
 		categ_ = [CateglistArray objectAtIndex:indexPath.row];
 
 		
@@ -230,7 +230,27 @@
 	}
 	
 	if (tableView ==tableViewItem) {
-		    [tableView deselectRowAtIndexPath:indexPath animated:YES]; 
+		    [tableView deselectRowAtIndexPath:indexPath animated:YES];
+		
+		Entity *info = [entityArray objectAtIndex:indexPath.row];
+		
+		MessageToViewData = info.item;
+		ItemDataViewController *message  = [ItemDataViewController alloc];
+		NSLog(@"the zender:%@",MessageToViewData);
+		message.ViewDataReceive = MessageToViewData;
+		
+		NSLog(@"going  :%@",message.ViewDataReceive);
+		
+		//load the view in a modal window sliding up!
+		ItemDataViewController *viewControllerData = [[ItemDataViewController alloc] initWithNibName:nil bundle:nil];
+		
+		viewControllerData.ViewDataReceive = MessageToViewData; //send the message to the viewController
+		
+		viewControllerData.modalPresentationStyle = UIModalPresentationFormSheet;
+		[self presentModalViewController:viewControllerData animated:YES];
+		
+ 
+
 	}
 	 
 	
@@ -434,6 +454,10 @@ commitEditingStyle:(UITableViewCellEditingStyle) editingStyle
 	[ tableViewItem reloadData];
 	
 	[ItemTextField setHidden:true];
+	
+	[saveItemBtn setHidden:true];
+	[cancelItem setHidden:true];
+	[newItemBtn setHidden:false];
 
 }
 

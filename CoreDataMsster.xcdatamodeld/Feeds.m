@@ -1,18 +1,21 @@
 // 
-//  categ.m
+//  Feeds.m
 //  CoreDataMsster
 //
 //  Created by Manuel Betancurt on 15/07/11.
 //  Copyright 2011 HYPER. All rights reserved.
 //
 
-#import "categ.h"
+#import "Feeds.h"
 
 #import "Entity.h"
 
-@implementation categ 
+@implementation Feeds 
 
-@dynamic categ_name;
-@dynamic CategToEntity;
+@dynamic link;
+@dynamic title;
+@dynamic dateFeed;
+@dynamic summary;
+@dynamic FeedsToEntity;
 
 @end
